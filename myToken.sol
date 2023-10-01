@@ -40,5 +40,5 @@ contract MyToken {
     }
 }
 
-Submitted by: Mendizabal, Jed Marco
-Submitted to: Metacrafters
+// Submitted by: Mendizabal, Jed Marco
+// Submitted to: Metacrafters
